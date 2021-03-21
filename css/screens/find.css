@@ -1,0 +1,33 @@
+.find-icons {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: var(--main-border);
+    padding-bottom: 25px;
+}
+
+.find-icons__icon {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.find-icons__icon i {
+    font-size: 35px;
+}
+
+.find-icons__icon span {
+    margin-top: 20px;
+}
+
+.header__update {
+    background-color: tomato;
+    width: 7px;
+    height: 7px;
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 33px;
+    bottom: 25px;
+}
