@@ -1,16 +1,16 @@
 .screen-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 50px var(--horizontal-space);
-    margin-bottom: 15px;
-} 
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 50px var(--horizontal-space);
+  margin-bottom: 5px;
+}
 
 .screen-header__title {
-    font-size: 33px;
-    font-weight: 600;
+  font-size: 33px;
+  font-weight: 600;
 }
 
 .screen-header__icons span {
-    margin-left: 25px;
+  margin-left: 25px;
 }
